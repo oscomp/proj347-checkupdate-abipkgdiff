@@ -27,6 +27,9 @@ Github：[Zeno-sole](https://github.com/Zeno-sole)
 
 Mail: lichenggang@deepin.org
 
+### 赛题分类
+系统维护工具
+
 ## **难度**
 
 中等
